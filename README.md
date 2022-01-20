@@ -1,6 +1,6 @@
 # Dom-Intro-New
 
-# Link: https://luzsanchez23.github.io/Dom_Intro/
+# Link: https://luzsanchez23.github.io/Dom-Intro-New/
 
 # Luz Sanchez
 
